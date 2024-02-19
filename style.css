@@ -1,0 +1,30 @@
+body{
+    padding:0;
+    margin:0
+}
+a{
+  
+}
+.header{
+    padding:10px 10px;
+    background-color:gray;
+}
+.header_list{
+    margin-right:30px;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+font-style:italic ;
+
+color:purple;
+font-weight: bold;
+
+
+
+}
+.header_list:hover{
+color:white;
+background-color: purple;
+padding:10px;
+
+
+}
